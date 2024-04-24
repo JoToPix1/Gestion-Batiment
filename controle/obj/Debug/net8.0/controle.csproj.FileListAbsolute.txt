@@ -1,0 +1,14 @@
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\controle.AssemblyInfoInputs.cache
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\controle.AssemblyInfo.cs
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\controle.csproj.CoreCompileInputs.cache
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\bin\Debug\net8.0\controle.exe
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\bin\Debug\net8.0\controle.deps.json
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\bin\Debug\net8.0\controle.runtimeconfig.json
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\bin\Debug\net8.0\controle.dll
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\bin\Debug\net8.0\controle.pdb
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\controle.dll
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\refint\controle.dll
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\controle.pdb
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\controle.genruntimeconfig.cache
+C:\Users\jotop\OneDrive - Ifag Paris\EPSI\Cours\C SHARP\controle\controle\obj\Debug\net8.0\ref\controle.dll
